@@ -1,8 +1,10 @@
 
 # Obinna Akaolisa
-> Web Developer - UI/UX Designer - Digital
+
+> Web Developer - UI/UX Designer
 
 ## 🚀 About Me
+
 I'm a full stack developer, and product designer, building word-class industry solutions...
 
 
