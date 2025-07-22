@@ -1,11 +1,11 @@
 
 # Obinna Akaolisa
 
-> Web Developer - UI/UX Designer
+> Software Engineer - UI/UX Designer
 
 ## 🚀 About Me
 
-I'm a full stack developer, and product designer, building word-class industry solutions...
+I'm a full-stack developer and product designer, building world-class industry solutions...
 
 
 ## 🔗 Links
@@ -15,4 +15,4 @@ I'm a full stack developer, and product designer, building word-class industry s
 
 
 ## 🛠 Skills
-PHP, Laravel, Javascript, HTML, CSS, Figma, Adobe XD...
+PHP: Laravel, Javascript: NodeJS, ExpressJS, ReactJS, MongoDB, MySQL, PostgreSQL, Figma...
