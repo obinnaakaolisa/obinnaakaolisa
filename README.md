@@ -2,16 +2,18 @@
 
 ## Full-Stack Developer | AI/ML Engineer | UI/UX Designer
 
-I'm a passionate software engineer who builds scalable, intelligent solutions at the intersection of elegant design and cutting-edge technology. With expertise spanning full-stack development, artificial intelligence, and user experience design, I create products that are both powerful and intuitive.
+I'm a passionate software engineer building scalable, intelligent solutions at the intersection of elegant design and cutting-edge technology. With expertise spanning full-stack development, artificial intelligence, and user experience design, I create products that are both powerful and intuitive.
 
 ### 🎯 What I Do
 
 - **Full-Stack Development**: Crafting robust web applications with modern frameworks and architectures
+
 - **AI/ML Engineering**: Training and deploying machine learning models for real-world applications
+
 - **Product Design**: Designing user-centric interfaces that balance aesthetics with functionality
+
 - **API Development**: Building scalable, secure APIs that power modern applications
 
----
 
 ## 💻 Technical Stack
 
@@ -60,7 +62,7 @@ I'm a passionate software engineer who builds scalable, intelligent solutions at
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
+
 
 ## 🤖 AI/ML Expertise
 
@@ -70,7 +72,7 @@ I'm a passionate software engineer who builds scalable, intelligent solutions at
 - **Computer Vision**: Image recognition, object detection, and image processing
 - **MLOps**: Model deployment, monitoring, and optimization in production environments
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -83,7 +85,7 @@ I'm a passionate software engineer who builds scalable, intelligent solutions at
 
 </div>
 
----
+
 
 ## 📫 Let's Connect
 
@@ -91,7 +93,7 @@ I'm a passionate software engineer who builds scalable, intelligent solutions at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obinnaakaolisa)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obinnaakaolisa)
 
----
+
 
 ## 💡 Current Focus
 
@@ -103,7 +105,7 @@ current_focus = {
 }
 ```
 
----
+
 
 <div align="center">
   
